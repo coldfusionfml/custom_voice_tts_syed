@@ -1,6 +1,6 @@
 streamlit
-TTS==0.22.0
-torch==2.1.0
-torchaudio==2.1.0
+TTS==0.17.9
+torch==1.13.1
+torchaudio==0.13.1
 numpy
 scipy
